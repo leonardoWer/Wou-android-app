@@ -30,5 +30,5 @@
 |   Фио           | Ник            | Должность  |
 |  ------------   |------------    |------------|
 |  Левахин Лев    |  leonardo_Wer  | CEO        |
-|  Алина Аксянова |  alinaakso     |  Frontend-developer |
-|                 |                |   |
+|  Алина Аксянова |  alinaakso     | Frontend-developer |
+|  Дарья Раева    |   drraeva      | Creative Director, tester | 
